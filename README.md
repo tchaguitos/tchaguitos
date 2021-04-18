@@ -11,10 +11,10 @@ Minhas ferramentas e tecnologias favoritas são:
 - Javascript, VueJS
 - React Native  
 
-## Links e informações
+## Links e projetos pessoais
 
-- Curso [Django framework na prática](https://bit.ly/3uwIpmC) disponível na Udemy
 - Livro gratuito [Django framework na prática](https://bit.ly/3pR3Ong) disponível na Leanpub
+- Curso [Django framework na prática](https://bit.ly/3uwIpmC) disponível na Udemy
 - Blog [Django framework na prática](https://bit.ly/2Pn9OHQ)  
 
 ## Playlists que faço e ouço no dia a dia
