@@ -28,7 +28,7 @@ Minhas ferramentas e tecnologias favoritas são:
 ## Informações sobre meu Github
 
 <div>
-![estatísticas github @tchaguitos](https://github-readme-stats.vercel.app/api?username=tchaguitos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br)  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tchaguitos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
 
-![top 5 linguagens utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=tchaguitos&layout=compact&locale=pt-br)  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchaguitos&layout=compact&locale=pt-br"/>    
 </div>
