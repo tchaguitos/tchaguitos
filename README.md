@@ -11,22 +11,24 @@ Minhas ferramentas e tecnologias favoritas são:
 - Javascript, VueJS
 - React Native  
 
-## Links e projetos pessoais
+## Links de projetos pessoais
 
 - Livro gratuito [Django framework na prática](https://bit.ly/3pR3Ong) disponível na Leanpub
 - Curso [Django framework na prática](https://bit.ly/3uwIpmC) disponível na Udemy
 - Blog [Django framework na prática](https://bit.ly/2Pn9OHQ)  
 
-## Playlists que faço e ouço no dia a dia
+## Playlists que ouço no dia a dia
 
-- [dev](https://open.spotify.com/playlist/22SW7vJu2XSrSfSXP8kckN?si=09qX4v7SQESOps6ip2ILAQ) by tchaguitos
-- [travel](https://open.spotify.com/playlist/5FsK70mHNVfi18HHVXhOgb?si=zzqTh3vETSmWI6oXLabv5g) by tchaguitos
-- [wake up](https://open.spotify.com/playlist/6T7P9Ny240mfEfhhoTEuVo?si=kJ8zV46_SaavgzTdhK17Fg) by tchaguitos
-- [air guitar](https://open.spotify.com/playlist/6dVmCdjkxbystaxsSMFGD0?si=l0xHKHPlSESHVbMHP3BzWw) by tchaguitos
-- [workaholic](https://open.spotify.com/playlist/4jOrfDd9hTy7PC0fcjEAeo?si=brsrDeLbR3y0-Gc7d2Dy-g) by tchaguitos  
+- [dev](https://open.spotify.com/playlist/22SW7vJu2XSrSfSXP8kckN?si=09qX4v7SQESOps6ip2ILAQ)
+- [travel](https://open.spotify.com/playlist/5FsK70mHNVfi18HHVXhOgb?si=zzqTh3vETSmWI6oXLabv5g)
+- [wake up](https://open.spotify.com/playlist/6T7P9Ny240mfEfhhoTEuVo?si=kJ8zV46_SaavgzTdhK17Fg)
+- [air guitar](https://open.spotify.com/playlist/6dVmCdjkxbystaxsSMFGD0?si=l0xHKHPlSESHVbMHP3BzWw)
+- [workaholic](https://open.spotify.com/playlist/4jOrfDd9hTy7PC0fcjEAeo?si=brsrDeLbR3y0-Gc7d2Dy-g)
 
-## Algumas informações sobre meu Github
+## Informações sobre meu Github
 
+<div>
 ![estatísticas github @tchaguitos](https://github-readme-stats.vercel.app/api?username=tchaguitos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br)  
 
 ![top 5 linguagens utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=tchaguitos&layout=compact&locale=pt-br)  
+</div>
