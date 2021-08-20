@@ -13,9 +13,9 @@ Minhas ferramentas e tecnologias favoritas são:
 
 ## Links de projetos pessoais
 
-- Livro gratuito [Django framework na prática](https://bit.ly/3pR3Ong) disponível na Leanpub
-- Curso [Django framework na prática](https://bit.ly/3uwIpmC) disponível na Udemy
-- Blog [Django framework na prática](https://bit.ly/2Pn9OHQ)  
+- [Blog](https://bit.ly/2Pn9OHQ)
+- [Curso](https://bit.ly/3uwIpmC) disponível na Udemy
+- [Livro gratuito](https://bit.ly/3pR3Ong) disponível na Leanpub
 
 ## Playlists que ouço no dia a dia
 
