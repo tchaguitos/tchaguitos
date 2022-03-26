@@ -1,8 +1,6 @@
 # webdeveloper, coffee addicted, creator hipster
 
-Trabalho com desenvolvimento web há aproximadamente 5 anos e trabalhei em diversos projetos utilizando Django, Flask, FastAPI, NodeJS, VueJS e outras tecnologias da web
-
-Minhas ferramentas e tecnologias favoritas são:
+Trabalho com desenvolvimento web há aproximadamente 5 anos e trabalhei em diversos projetos utilizando Django, FastAPI, Flask, NodeJS, VueJS e outras tecnologias da web. Minhas ferramentas e tecnologias favoritas são:
 
 - Python, FastAPI, Django framework
 - Pandas, Geopandas, Folium, Jupyter Notebook
