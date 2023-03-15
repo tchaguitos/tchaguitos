@@ -20,7 +20,7 @@ Trabalho com desenvolvimento web há pouco mais de 5 anos e, nesse tempo, trabal
 - [travel](https://open.spotify.com/playlist/5FsK70mHNVfi18HHVXhOgb?si=zzqTh3vETSmWI6oXLabv5g)
 - [wake up](https://open.spotify.com/playlist/6T7P9Ny240mfEfhhoTEuVo?si=kJ8zV46_SaavgzTdhK17Fg)
 - [air guitar](https://open.spotify.com/playlist/6dVmCdjkxbystaxsSMFGD0?si=l0xHKHPlSESHVbMHP3BzWw)
-- [workaholic](https://open.spotify.com/playlist/4jOrfDd9hTy7PC0fcjEAeo?si=brsrDeLbR3y0-Gc7d2Dy-g)
+- [flow state](https://open.spotify.com/playlist/7AoDj0SJdP15696irlYz4W?si=e52b7c7774594c6a)
 
 ## Informações sobre meu Github
 
