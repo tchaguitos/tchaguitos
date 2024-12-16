@@ -4,8 +4,8 @@ Trabalho com desenvolvimento web há pouco mais de 8 anos e, nesse tempo, trabal
 
 - Python, FastAPI, Django framework
 - PostgreSQL, MongoDB
-- NodeJS, ExpressJS
-- Javascript, VueJS
+- NodeJS, Express, Fastify
+- Javascript, VueJS, ReactJS
 - React Native
 
 ## Links de projetos pessoais
